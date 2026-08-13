@@ -1,0 +1,22 @@
+{
+  "scale": 0.1,
+  "always_on_top": true,
+  "mouse_passthrough": false,
+  "auto_start": false,
+  "animation_speed": 1.0,
+  "skin_path": "assets/skin/girlfriend",
+  "idle_to_sad_seconds": 60,
+  "idle_to_sleepy_seconds": 90,
+  "roam_enabled": false,
+  "reminder_enabled": true,
+  "reminder_interval_minutes": 45,
+  "llm": {
+    "base_url": "https://api.deepseek.com/v1",
+    "api_key": "sk-b5f4b91e5f504395a1b15ab6cb1953c4",
+    "model": "deepseek-v4-pro",
+    "persona": "academic",
+    "temperature": 0.8,
+    "max_history": 10,
+    "timeout_seconds": 30
+  }
+}
