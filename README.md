@@ -1,3 +1,4 @@
+可自提供照片生成，提示词已省略，文件目录为assetss
 <img width="223" height="291" alt="image" src="https://github.com/user-attachments/assets/74f2a886-5c46-413f-9be6-d44d83931002" />
 <img width="746" height="682" alt="image" src="https://github.com/user-attachments/assets/564bbca8-c5a6-4369-a886-fec8968c5b74" />
 
