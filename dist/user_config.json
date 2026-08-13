@@ -12,7 +12,7 @@
   "reminder_interval_minutes": 45,
   "llm": {
     "base_url": "https://api.deepseek.com/v1",
-    "api_key": "sk-dbab5813f20149a1a0ea27430b42f6bf",
+    "api_key": "填写自己的apikey",
     "model": "deepseek-v4-pro",
     "persona": "academic",
     "temperature": 0.7,
